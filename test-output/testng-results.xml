@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-29T21:44:57 EET" name="Default suite" finished-at="2023-11-29T21:45:00 EET" duration-ms="2990">
+    <groups>
+    </groups>
+    <test started-at="2023-11-29T21:44:57 EET" name="Default test" finished-at="2023-11-29T21:45:00 EET" duration-ms="2990">
+      <class name="ProductClass">
+        <test-method is-config="true" signature="SetUPtest()[pri:0, instance:ProductClass@5b04476e]" started-at="2023-11-29T21:44:57 EET" name="SetUPtest" finished-at="2023-11-29T21:44:59 EET" duration-ms="2028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUPtest -->
+        <test-method signature="Test()[pri:0, instance:ProductClass@5b04476e]" started-at="2023-11-29T21:44:59 EET" name="Test" finished-at="2023-11-29T21:45:00 EET" duration-ms="874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="MyAfterTest()[pri:0, instance:ProductClass@5b04476e]" started-at="2023-11-29T21:45:00 EET" name="MyAfterTest" finished-at="2023-11-29T21:45:00 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyAfterTest -->
+      </class> <!-- ProductClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
